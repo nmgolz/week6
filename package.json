@@ -1,0 +1,23 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "description": "Making a card game",
+  "main": "week6_coding_assignment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmgolz/week6.git"
+  },
+  "author": "Nolan Golz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmgolz/week6/issues"
+  },
+  "homepage": "https://github.com/nmgolz/week6#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
