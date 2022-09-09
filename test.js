@@ -8,7 +8,7 @@ describe('myFunctions', function(){
             let x = shuffleArray(arr);
             expect(x).to.equal(); 
         });
-        it('Should do nothing if it doenst get an array', function(){
+        it('will Probably give an error with out an array', function(){
             expect(function(){
                 shuffleArray(fred);
             }).to.Throw();

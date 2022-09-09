@@ -1,5 +1,5 @@
 class Player{
-    constructor(name, position){
+    constructor(name){
         this.name = name;
         this.hand = [];
     }
